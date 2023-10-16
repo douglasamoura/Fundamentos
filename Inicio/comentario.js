@@ -7,5 +7,5 @@ console.log("Passo #02");
 comentario 
 de 
 varias
-linhas
+linhas e evite comentarios obvios como esse kkk
 */
